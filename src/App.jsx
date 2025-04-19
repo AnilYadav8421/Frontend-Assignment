@@ -1,7 +1,12 @@
 import React from 'react'
+import Nav from './components/Nav'
 
-export const App = () => {
+const App = () => {
   return (
-    <div>App</div>
+    <div>
+      <Nav/>
+    </div>
   )
 }
+
+export default App
