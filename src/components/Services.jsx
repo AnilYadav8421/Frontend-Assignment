@@ -105,6 +105,9 @@ const Services = () => {
                     </div>
                 </div>
             </div>
+            <div className='mt-24 text-center'>
+                <button className='bg-blue-500 py-2 px-10 rounded-full text-white mb-6'>Get started</button>
+            </div>
         </div>
     )
 }
