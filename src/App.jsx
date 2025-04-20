@@ -6,6 +6,7 @@ import Services from './components/Services'
 import Marketing from './components/Marketing'
 import PropertyInq from './components/PropertyInq'
 import Experties from './components/Experties'
+import Testimonial from './components/Testimonial'
 
 const App = () => {
   return (
@@ -17,6 +18,7 @@ const App = () => {
       <Marketing/>
       <PropertyInq/>
       <Experties/>
+      <Testimonial/>
     </div>
   )
 }
