@@ -8,6 +8,7 @@ import PropertyInq from './components/PropertyInq'
 import Experties from './components/Experties'
 import Testimonial from './components/Testimonial'
 import FAQ from './components/FAQ'
+import ContactForm from './components/ContactForm'
 
 const App = () => {
   return (
@@ -21,6 +22,7 @@ const App = () => {
       <Experties/>
       <Testimonial/>
       <FAQ/>
+      <ContactForm/>
     </div>
   )
 }
