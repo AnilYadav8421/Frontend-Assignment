@@ -11,7 +11,7 @@ const Testimonial = () => {
             <h1 className='font-bold text-3xl sm:text-4xl mb-6 text-center'>
                 What Our Pharma Partners Say
             </h1>
-            <p className='text-xl text-center mb-10'>
+            <p className='text-lg text-center mb-10'>
                 Driving Transformations, One Brand at a Time
             </p>
 

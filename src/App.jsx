@@ -7,6 +7,7 @@ import Marketing from './components/Marketing'
 import PropertyInq from './components/PropertyInq'
 import Experties from './components/Experties'
 import Testimonial from './components/Testimonial'
+import FAQ from './components/FAQ'
 
 const App = () => {
   return (
@@ -19,6 +20,7 @@ const App = () => {
       <PropertyInq/>
       <Experties/>
       <Testimonial/>
+      <FAQ/>
     </div>
   )
 }
