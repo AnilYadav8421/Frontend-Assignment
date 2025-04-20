@@ -9,6 +9,7 @@ import Experties from './components/Experties'
 import Testimonial from './components/Testimonial'
 import FAQ from './components/FAQ'
 import ContactForm from './components/ContactForm'
+import Footer from './components/Footer'
 
 const App = () => {
   return (
@@ -23,6 +24,7 @@ const App = () => {
       <Testimonial/>
       <FAQ/>
       <ContactForm/>
+      <Footer/>
     </div>
   )
 }
