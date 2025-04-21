@@ -1,12 +1,21 @@
-# React + Vite
+# Responsive Landing Page – Assignment
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Project Overview
 
-Currently, two official plugins are available:
+This is a responsive landing page developed as part of a frontend assignment for internal organizational use. The main goal of the project was to build a clean, accessible, and fully responsive webpage based on a provided Figma design — ensuring pixel-perfect accuracy and compatibility across all major devices and browsers.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+## 📷 Screenshots
+
+_Add a few screenshots if you want to visually showcase mobile/desktop responsiveness._
+
+
+---
+## Tech Stack
+
+- **React.js**
+- **Tailwind CSS**
+- **Vite**
+
