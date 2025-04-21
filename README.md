@@ -9,7 +9,7 @@ This is a responsive landing page developed as part of a frontend assignment for
 ---
 ## 📷 Screenshots
 
-_Add a few screenshots if you want to visually showcase mobile/desktop responsiveness._
+![image alt](https://github.com/AnilYadav8421/Frontend-Assignment/blob/e21a0885a2948d8af2dab1a6c054aa0164000d91/Screenshot%202025-04-21%20133503.png)
 
 
 ---
